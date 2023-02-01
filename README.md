@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Azhar.
-- 👀 I’m interested in Software and Web Development.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineering and Web Development.
+- 🌱 I’m currently working through The Odin Project as well as App Academy Open.
+- 📫 How to reach me:
+  - kadazha123@gmail.com
 
 <!---
 akadwa/akadwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
