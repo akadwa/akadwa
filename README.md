@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Web Development.
 - 🌱 I’m currently working through The Odin Project as well as App Academy Open.
 - 📫 How to reach me:
-  - kadazha123@gmail.com
+  - kadazh123@gmail.com
 
 <!---
 akadwa/akadwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
