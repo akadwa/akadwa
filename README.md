@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azhar.
-- 👀 I’m interested in Software Engineering and Web Development.
-- 🌱 I’m currently working through The Odin Project as well as App Academy Open.
+- 👀 I’m interested in Software Engineering, Web Development and Data.
+- 🌱 I’m currently working through The Odin Project as well as Data Analysis courses.
 - 📫 How to reach me:
   - kadazh123@gmail.com
 
